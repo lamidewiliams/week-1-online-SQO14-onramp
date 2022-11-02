@@ -5,7 +5,8 @@ function countTruthy(arr) {
                 truthyvalue++
             }
         }
-        return truev 
+        return truthyvalue
     }
 
-module.exports = countTruthy
+
+ module.exports = countTruthy
